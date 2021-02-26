@@ -2,6 +2,7 @@
 <article class="flex-container">
     {{ .Content }}
 </article>
+{{ if not .Site.Params.disableLists }}
 <nav role="navigation">
     <ul>
         {{ range .Data.Pages }}
@@ -16,4 +17,5 @@
         {{ end }}
     </ul>
 </nav>
+{{ end }}
 {{ end }}
