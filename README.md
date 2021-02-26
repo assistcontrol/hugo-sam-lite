@@ -1,3 +1,15 @@
+# Sam Lite
+
+This is an enlittled version of Victoria Drake's incredible
+[Call me Sam](https://github.com/victoriadrake/hugo-theme-sam) theme for Hugo.
+
+This version rips out everything except the basic CSS and fundamental
+page structure. There is no gallery, no Twitter links, no JS, and included
+static assets, and no custom landing page.
+
+Victoria's version makes a complete site. This fork just uses the basic
+look.
+
 # [Call me Sam: a theme for Hugo](https://victoria.dev/hugo-theme-sam/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5eea4600-5396-4e6a-be45-484435e875d9/deploy-status)](https://app.netlify.com/sites/hugo-theme-sam/deploys)
