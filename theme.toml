@@ -1,10 +1,10 @@
-name = "Call me Sam."
+name = "I am Sam's spleen"
 license = "Apache-2.0"
-licenselink = "https://github.com/victoriadrake/hugo-theme-sam/blob/master/LICENSE.txt"
-description = "Simple And Minimalist theme for Hugo."
-homepage = "https://github.com/victoriadrake/hugo-theme-sam"
-tags = ["clean", "simple", "blog", "portfolio", "flexbox", "css grid", "minimalist", "responsive", "syntax highlighting", "gallery", "starter"]
-features = ["responsive", "gallery"]
+licenselink = "https://github.com/assistcontrol/hugo-sam-lite/blob/master/LICENSE.txt"
+description = "Enlittled Simple And Minimalist theme for Hugo."
+homepage = "https://github.com/assistcontrol/hugo-sam-lite"
+tags = ["clean", "simple", "blog", "portfolio", "flexbox", "css grid", "minimalist", "responsive", "syntax highlighting", "starter"]
+features = ["responsive"]
 min_version = "0.49"
 
 [author]

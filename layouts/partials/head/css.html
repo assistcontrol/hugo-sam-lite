@@ -24,11 +24,3 @@
     <link rel="stylesheet" href="{{ $bundle.RelPermalink }}" integrity="{{ $bundle.Data.Integrity }}" crossorigin="anonymous" media="screen">
   {{- end }}
 {{ end }}
-
-<!-- PhotoSwipe -->
-{{ if eq .Type "gallery" }}
-{{ $photoswipe := "css/photoswipe.css" }}
-<link rel="stylesheet" href="{{ $photoswipe | absURL }}">
-{{ $defaultSkin := "css/default-skin.css" }}
-<link rel="stylesheet" href="{{ $defaultSkin | absURL }}">
-{{ end }}
